@@ -1,1 +1,4 @@
-(https://github.com/Arman8655/university-food-project/blob/4aac9048525b549defaeb57836cfc21418240ccd/Screenshot%20(81).png)[diagram photo]
+#طراحی کلی پایگاه داده 
+این سیستم از 5 جدول اصلی با روابط مشخص تشکیل شده است که از اصول نرمال‌سازی پایگاه داده پیروی می‌کند:
+
+
