@@ -54,4 +54,4 @@ amout هم برای تعیین مقدار غذا است
 ### تصویر دیاگرام 
 
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](Screenshot (81).png)
