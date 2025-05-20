@@ -51,3 +51,7 @@ food_name برای نام غذا
 amout هم برای تعیین مقدار غذا است
 
 
+### تصویر دیاگرام 
+
+
+![ER Diagram](images/er_diagram.png)
