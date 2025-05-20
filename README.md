@@ -1,1 +1,1 @@
-![diagram photo](Screenshot(81).png)
+![دیاگرام ERD](Screenshot (81).png)
