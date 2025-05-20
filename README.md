@@ -1,1 +1,1 @@
-(Screenshot(81).png)[diagram photo]
+![diagram photo](Screenshot(81).png)
